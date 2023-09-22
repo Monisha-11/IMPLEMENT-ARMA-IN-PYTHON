@@ -1,4 +1,4 @@
-# EXP 7 - ARIMA IN PYTHON
+# EXP 7 - ARMA IN PYTHON
 
 ## AIM:
 
@@ -76,4 +76,4 @@ plot_pacf(ARMA_2)
 
 
 ## RESULT:
-Thus, a python program is created to implement ARIMA.
+Thus, a python program is created to implement ARMA.
